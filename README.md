@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Bhavya
 
-<!--
-**bhavya2814/bhavya2814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+💻 Skills
+• Python
+• Machine Learning
+• Deep Learning
+• TensorFlow
+• SQL
+• Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Focus
+• Generative AI
+• LLMs
+• Agentic AI
+
+📂 Featured Projects
+⭐ E-commerce
+⭐ Ajio clone
+
+📫 Contact
+Email : bhavyamyla28@gmail.com
